@@ -1,6 +1,9 @@
-# Nom du Projet
+# 2027
 
-Description brève du projet.
+L'objectif de ce projet est de créer un programme politique pour les élections de 2027.
+Plus nous serons à contribuer, plus nous pourrons avoir du poids et peser sur les responsables politiques et avoir nos idées représentées.
+
+Vous trouverez dans ce Readme la manière de contribuer, n'hésitez pas à ouvrir des "issues" si certains choses ne sont pas claires ou à ouvrir des Pull Request pour partager vos idées et créer des discussions de fond !
 
 ## Licence
 
